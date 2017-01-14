@@ -1,0 +1,48 @@
+.prof-box {
+	width:800px;
+	height:1500px;
+	background:rgba(0,0,0,0.4);
+	padding:80px;
+	color: white;
+	margin:10 auto;
+	margin-top:140px;
+	text-align:center;
+	font-family: 'helvetica neue', sans-serif;
+}
+
+.prof-pic {
+	border-radius:50%;
+	height: 200px;
+	width: 200px;
+}
+
+h1 {
+	font-weight: 100;
+	letter-spacing: 8;
+	font-size: 60px;
+}
+
+h2 {
+	font-weight: 100;
+	letter-spacing: 6;
+	font-size:45px;
+}
+
+h3 {
+	font-weight: 100;
+	letter-spacing: 4;
+	font-size:20px;
+}
+
+p {
+	font-weight: 100;
+	letter-spacing: 4;
+	font-size:25px;
+}
+
+
+.line-break {
+	width: 400px;
+	margin: 0 auto;
+	border-top: 1px solid white;
+}
